@@ -1,0 +1,12 @@
+table {
+  background-color: rgb(158, 148, 0);
+  text-align: center;
+  width: 100%;
+  border: 1px solid #000;
+}
+
+th,
+td {
+  vertical-align: top;
+  border: 1px solid #000;
+}
